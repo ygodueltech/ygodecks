@@ -1,19 +1,3 @@
-# ygodecks
-ydk decks
-
-dldecks contains duel link standard duelist ydks for decks scraped from: https://yugipedia.com/wiki/Standard_Duelist
-
-
-chardecks contains ydks for character page decks scraped from https://yugipedia.com/wiki/Legendary_Duelist
-
-
-no guarantees on everything being parsed correctly
-
-----
-
-Decks contain the name as a top comment, followed by comments of `{ygopro id} = {card name} ({num copies})`
-
-```
 ## A Legendary Ocean
 # 23927567 = An Owl of Luck (1)
 # 295517 = A Legendary Ocean (3)
@@ -47,4 +31,3 @@ Decks contain the name as a top comment, followed by comments of `{ygopro id} = 
 49669730
 49669730
 #extra
-```
