@@ -1,6 +1,8 @@
 # ygodecks
 ydk decks
 
+omega decks contain ai decklists for ygo omega, these are almost the same as upstream https://discord.com/channels/253945062625378304/253948402839191552/852689219889397780
+
 dldecks contains duel link standard duelist ydks for decks scraped from: https://yugipedia.com/wiki/Standard_Duelist
 
 
